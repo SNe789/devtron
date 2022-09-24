@@ -4,7 +4,7 @@ Devtron integrations extend the functionality of your Devtron stack.
 
 ## Discover and install integrations
  
-The current release of Devtron supports the Build and Deploy (CI/CD) integration. More integrations will be available soon; to request one, please [submit a ticket](https://github.com/devtron-labs/devtron/issues/new/choose)
+Devtron supports the Build and Deploy (CI/CD), GitOps(ArgoCD) and Security(Clair) integrations. More integrations will be available soon; to request one, please [submit a ticket](https://github.com/devtron-labs/devtron/issues/new/choose)
 
 > Integrations can be installed by super admins; However other user roles can browse and request super admins to install the required integrations.
 
