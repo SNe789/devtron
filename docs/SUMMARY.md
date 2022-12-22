@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [Getting Started](setup/getting-started/getting-started.md)
@@ -38,12 +38,12 @@
   * [0.3.x-0.3.x](setup/upgrade/devtron-upgrade-0.3.x-0.3.x.md)
   * [0.2.x-0.3.x](setup/upgrade/devtron-upgrade-0.2.x-0.3.x.md)
 
-### Usage
+## Usage
 
 * [Applications](user-guide/applications.md)
   * [Create a new application](user-guide/create-application.md)
   * [Clone an existing application](user-guide/cloning-application.md)
-  * [Deploy a sample application](user-guide/Deploy-sample-app/nodejs_app.md)
+  * [Deploy a sample application](user-guide/Deploy-sample-app/nodejs\_app.md)
   * [App Configuration](user-guide/creating-application/README.md)
     * [Git Repository](user-guide/creating-application/git-material.md)
     * [Build Configuration](user-guide/creating-application/docker-build-configuration.md)
@@ -59,15 +59,15 @@
     * [Config Maps](user-guide/creating-application/config-maps.md)
     * [Secrets](user-guide/creating-application/secrets.md)
     * [Environment Overrides](user-guide/creating-application/environment-overrides.md)
-    * [Deleting Application](user-guide/deleting-application.md)   
+    * [Deleting Application](user-guide/deleting-application.md)
   * [Build and Deploy](user-guide/deploying-application/README.md)
     * [Triggering CI](user-guide/deploying-application/triggering-ci.md)
     * [Triggering CD](user-guide/deploying-application/triggering-cd.md)
     * [Rollback Deployment](user-guide/deploying-application/rollback-deployment.md)
   * [App Details](user-guide/creating-application/app-details.md)
     * [Debugging Deployment And Monitoring](user-guide/debugging-deployment-and-monitoring.md)
-    * [Application Metrics](user-guide/creating-application/app-metrics.md) 
-  * [Overview](user-guide/creating-application/overview.md)  
+    * [Application Metrics](user-guide/creating-application/app-metrics.md)
+  * [Overview](user-guide/creating-application/overview.md)
 * [Charts](user-guide/deploy-chart/README.md)
   * [Charts Overview](user-guide/deploy-chart/overview-of-charts.md)
   * [Deploy & Observe](user-guide/deploy-chart/deployment-of-charts.md)
@@ -82,7 +82,7 @@
   * [GitOps (Argo CD)](user-guide/integrations/argocd.md)
   * [Vulnerability Scanning (Clair)](user-guide/integrations/clair.md)
   * [Notifications](user-guide/integrations/notifications.md)
-  * [Monitoring (Grafana)](user-guide/integrations//grafana.md)
+  * [Monitoring (Grafana)](user-guide/integrations/grafana.md)
 
 ## Resources
 
